@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.giagor.plugingo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.giagor.plugingo.MyBundle
 
 class MyApplicationService {
 
